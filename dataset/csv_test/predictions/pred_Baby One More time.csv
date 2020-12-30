@@ -1,0 +1,88 @@
+,Measure,Chord,Actual (for comparison only)
+0,1,Cm,[][]
+1,2,Cm,[][]
+2,3,Cm,[][]
+3,4,Cm,[][]
+4,5,Cm,[][]
+5,6,Cm,Cm
+6,7,Cm,Cm
+7,8,G ,G 
+8,9,Bb ,G 
+9,10,Eb ,Eb 
+10,11,G ,Eb 
+11,12,Cm,Fm
+12,13,Cm,G 
+13,14,Cm,Cm
+14,15,Ab ,Cm
+15,16,G ,G 
+16,17,Eb ,Gm
+17,18,Eb ,Eb 
+18,19,Eb ,Eb 
+19,20,Fm,Fm
+20,21,Bb ,G 
+21,22,Eb ,Cm
+22,23,Eb ,Cm
+23,24,Bb ,G 
+24,25,Bb ,G 
+25,26,Eb ,Eb 
+26,27,Eb ,Eb 
+27,28,Eb ,Fm
+28,29,Cm,G 
+29,30,Cm,Cm
+30,31,Ab ,Cm
+31,32,Bb ,G 
+32,33,Eb ,G 
+33,34,Eb ,Eb 
+34,35,Cm,Eb 
+35,36,Fm,Fm
+36,37,G ,Gsus
+37,38,Ab ,Cm
+38,39,Cm,Cm
+39,40,Bb ,G 
+40,41,Eb ,Ab 
+41,42,Eb ,Eb 
+42,43,G ,Eb 
+43,44,Cm,Fm
+44,45,Cm,G 
+45,46,G ,Fm
+46,47,G ,G 
+47,48,Cm,Cm
+48,49,Cm,Cm
+49,50,Cm,Cm
+50,51,Cm,Cm
+51,52,Cm,Cm
+52,53,Cm,Cm
+53,54,Cm,Cm
+54,55,Cm,Cm
+55,56,Cm,Cm
+56,57,Cm,Cm
+57,58,G ,G 
+58,59,Eb ,G 
+59,60,Eb ,Eb 
+60,61,Cm,Eb 
+61,62,Cm,Fm
+62,63,Eb ,Gsus
+63,64,Ab ,Ab 
+64,65,Cm,Ab 
+65,66,Bb ,Bb 
+66,67,Cm,Bb 
+67,68,Eb ,Fm
+68,69,Cm,Fm
+69,70,Eb ,Ab 
+70,71,Eb ,Bb 
+71,72,Eb ,Cm
+72,73,Eb ,Cm
+73,74,Eb ,G 
+74,75,Eb ,G 
+75,76,Eb ,Eb 
+76,77,Ab ,Eb 
+77,78,Fm,Fm
+78,79,Bb ,Gsus
+79,80,Eb ,Ab 
+80,81,Eb ,Ab 
+81,82,Eb ,Bb 
+82,83,Eb ,Bb 
+83,84,Eb ,Ab 
+84,85,Eb ,Eb 
+85,86,Cm,Fm
+86,87,Eb ,Bb 

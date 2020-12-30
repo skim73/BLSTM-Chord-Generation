@@ -1,0 +1,33 @@
+,Measure,Chord,Actual (for comparison only)
+0,1,C ,C 
+1,2,D ,D 
+2,3,C ,Eb 
+3,4,F ,Dm
+4,5,C ,Eb 
+5,6,F ,D 
+6,7,G ,G 
+7,8,G ,G 
+8,9,C ,C 
+9,10,D ,D 
+10,11,C ,Eb 
+11,12,F ,Dm
+12,13,C ,Eb 
+13,14,F ,D 
+14,15,Dm,G 
+15,16,G ,G 
+16,17,C ,Am
+17,18,Am,F 
+18,19,E ,Abm
+19,20,G ,G 
+20,21,Am,Gbm
+21,22,E ,F 
+22,23,E ,E 
+23,24,E ,E 
+24,25,C ,Am
+25,26,Am,F 
+26,27,E ,Abm
+27,28,G ,G 
+28,29,Am,Gbm
+29,30,Am,F 
+30,31,E ,E 
+31,32,E ,E 

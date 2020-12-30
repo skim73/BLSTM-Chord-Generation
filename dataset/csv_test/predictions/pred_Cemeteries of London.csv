@@ -1,0 +1,95 @@
+,Measure,Chord,Actual (for comparison only)
+0,1,Ebm,[][]
+1,2,B ,[][]
+2,3,B ,Em
+3,4,Gb ,G 
+4,5,Gb ,Bm
+5,6,B ,Em
+6,7,B ,Em
+7,8,Gb ,G 
+8,9,Ebm,Bm
+9,10,Gb ,Bm
+10,11,B ,Em
+11,12,Gb ,G 
+12,13,Gb ,Bm
+13,14,B ,Em
+14,15,B ,Em
+15,16,Gb ,G 
+16,17,Ebm,Bm
+17,18,Db ,Bm
+18,19,Gb ,Em
+19,20,B ,Em
+20,21,B ,G 
+21,22,Gb ,A 
+22,23,B ,Em
+23,24,B ,Em
+24,25,Gb ,Em
+25,26,Bb ,Bm
+26,27,Ebm,Em
+27,28,Gb ,Em
+28,29,Gb ,Em
+29,30,Gb ,Em
+30,31,Gb ,G 
+31,32,Gb ,Bm
+32,33,Gb ,Em
+33,34,Gb ,Em
+34,35,Gb ,G 
+35,36,Gb ,Bm
+36,37,Gb ,Bm
+37,38,Gb ,Em
+38,39,Gb ,G 
+39,40,Gb ,Bm
+40,41,Gb ,Em
+41,42,Gb ,Em
+42,43,Gb ,G 
+43,44,Gb ,Bm
+44,45,Gb ,Bm
+45,46,Gb ,Bm
+46,47,Db ,Bm
+47,48,Gb ,Em
+48,49,Gb ,G 
+49,50,Gb ,Bm
+50,51,B ,Em
+51,52,B ,Em
+52,53,Gb ,G 
+53,54,Gb ,Bm
+54,55,Db ,Bm
+55,56,Ebm,Em
+56,57,Ebm,G 
+57,58,Ebm,Bm
+58,59,B ,Em
+59,60,B ,Em
+60,61,Gb ,G 
+61,62,Ebm,Bm
+62,63,Db ,Bm
+63,64,Gb ,Em
+64,65,B ,Em
+65,66,B ,G 
+66,67,Gb ,A 
+67,68,B ,Em
+68,69,B ,Em
+69,70,Gb ,Em
+70,71,Bb ,Bm
+71,72,B ,Em
+72,73,B ,Em
+73,74,B ,G 
+74,75,Gb ,A 
+75,76,B ,Em
+76,77,B ,Em
+77,78,Gb ,Em
+78,79,Db ,Bm
+79,80,Ebm,Em
+80,81,Gb ,Em
+81,82,Gb ,Em
+82,83,Gb ,Em
+83,84,Gb ,Em
+84,85,Gb ,Em
+85,86,Gb ,Em
+86,87,Gb ,Em
+87,88,Gb ,Em
+88,89,Gb ,Em
+89,90,Gb ,Em
+90,91,Gb ,Em
+91,92,Gb ,Em
+92,93,Gb ,Em
+93,94,Gb ,Em

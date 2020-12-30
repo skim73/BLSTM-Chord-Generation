@@ -1,0 +1,76 @@
+,Measure,Chord,Actual (for comparison only)
+0,1,Bb ,Bb 
+1,2,Eb ,F 
+2,3,Bb ,Bb 
+3,4,F ,Bb 
+4,5,Bb ,Eb 
+5,6,F ,E 
+6,7,Bb ,Bb 
+7,8,Bb ,F 
+8,9,Gm,Eb 
+9,10,Eb ,Eb 
+10,11,Bb ,Bb 
+11,12,Gm,G 
+12,13,Eb ,C 
+13,14,Bb ,C 
+14,15,F ,F 
+15,16,F ,F 
+16,17,Bb ,F 
+17,18,Bb ,Bb 
+18,19,Bb ,Bb 
+19,20,Eb ,Eb 
+20,21,Bb ,Eb 
+21,22,Bb ,Bb 
+22,23,Bb ,Gm
+23,24,Cm,C 
+24,25,F ,A 
+25,26,Gm,Bb 
+26,27,Eb ,A 
+27,28,Bb ,Ab 
+28,29,Eb ,G 
+29,30,Gm,C 
+30,31,C ,C 
+31,32,F ,F 
+32,33,F ,Ab 
+33,34,Bb ,Bb 
+34,35,Bb ,Bb 
+35,36,Eb ,Eb 
+36,37,Bb ,Eb 
+37,38,Bb ,Bb 
+38,39,Bb ,Gm
+39,40,Cm,C 
+40,41,F ,F 
+41,42,Eb ,Bb 
+42,43,Eb ,A 
+43,44,Bb ,Ab 
+44,45,Bb ,G 
+45,46,Bb ,C 
+46,47,F ,F 
+47,48,Bb ,Bb 
+48,49,Bb ,Eb 
+49,50,Eb ,Ab 
+50,51,Ebm,Ab 
+51,52,Fm,Db 
+52,53,Bb ,Db 
+53,54,Eb ,Eb 
+54,55,Ebm,Eb 
+55,56,F ,F 
+56,57,Bb ,F 
+57,58,Bb ,Bb 
+58,59,Bb ,Bb 
+59,60,Eb ,Eb 
+60,61,Bb ,Eb 
+61,62,Bb ,Bb 
+62,63,Bb ,Gm
+63,64,Cm,C 
+64,65,F ,A 
+65,66,Eb ,Bb 
+66,67,Eb ,A 
+67,68,Bb ,Ab 
+68,69,Bb ,G 
+69,70,Bb ,C 
+70,71,F ,F 
+71,72,Bb ,Bb 
+72,73,F ,Eb 
+73,74,Bb ,Bb 
+74,75,Bb ,Eb 
